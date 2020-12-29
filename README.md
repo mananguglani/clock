@@ -1,2 +1,2 @@
 # clock
-Ananlog clock made using HTML, CSS and JavaScript.
+Analog clock made using HTML, CSS and JavaScript.
